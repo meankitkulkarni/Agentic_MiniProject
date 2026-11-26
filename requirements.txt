@@ -1,0 +1,5 @@
+ollama
+ddgs
+trafilatura
+requests
+streamlit
